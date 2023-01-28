@@ -17,3 +17,7 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
   <li>Detect a cycle in a Linked List</li>
 </ul>
 
+## Searching 
+<ul>
+  <li>Binary Search</li>
+</ul>
