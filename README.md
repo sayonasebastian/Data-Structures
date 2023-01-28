@@ -1,5 +1,8 @@
 # Data-Structures
 
-## Binary Search Tree Topics:
-Level Order Traversal
-Lowest Common Ancestor of a Binary Search Tree
+## Binary Search Tree 
+<ul>
+  <li>Level Order Traversal</li>
+
+  <li>Lowest Common Ancestor of a Binary Search Tree</li>
+</ul>
