@@ -2,6 +2,7 @@
 
 Data structure problems from Leet code solved in languages like JavaScript, Java and C++
 
+## Arrays and Strings
 
 ### Two Pointer
 <ul>
@@ -9,8 +10,6 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
 
   <li>Squares of a Sorted Array</li>
 </ul>
-
-## Arrays and Strings
 
 ### Sliding Window
 <ul>
@@ -22,6 +21,13 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
   <li>Level Order Traversal</li>
 
   <li>Lowest Common Ancestor of a Binary Search Tree</li>
+</ul>
+
+
+## Hashing
+
+<ul>
+  <li>Two Sum</li>
 </ul>
 
 ## Linked List 
