@@ -7,7 +7,6 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
 ### Two Pointer
 <ul>
   <li>Reverse String</li>
-
   <li>Squares of a Sorted Array</li>
 </ul>
 
@@ -16,11 +15,13 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
   <li>Maximum Average Subarray</li>
 </ul>
 
-## Binary Search Tree 
+## Binary Tree 
 <ul>
+  <li>Are two trees symmetric</li>
   <li>Level Order Traversal</li>
-
   <li>Lowest Common Ancestor of a Binary Search Tree</li>
+  <li>Maximun depth of a tree</li>
+  <li>Vaidate a Binary Search Tree</li>
 </ul>
 
 
@@ -33,7 +34,8 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
 ## Linked List 
 <ul>
   <li>Merge Two Sorted Lists</li>
-  <li>Middle element of the Linked List</li>
+  <li>Middle element of a Linked List</li>
+  <li>Remove Nth node from a Linked List</li>
   <li>Reverse a Linked List</li>
   <li>Detect a cycle in a Linked List</li>
 </ul>

@@ -1,4 +1,6 @@
-package BinarySearchTree;
+package Tree.BinarySearchTree;
+import Tree.TreeNode;
+
 // 235. Lowest Common Ancestor of a Binary Search Tree
 public class LowestCommonAncestor {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
