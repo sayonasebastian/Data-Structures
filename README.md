@@ -28,6 +28,8 @@ Data structure problems from Leet code solved in languages like JavaScript, Java
 ## Hashing
 
 <ul>
+  <li>Longest Substring Without Repeating Characters </li>
+  <li>Panagram</li>
   <li>Two Sum</li>
 </ul>
 
